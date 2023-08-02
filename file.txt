@@ -1,0 +1,5 @@
+https://api.tomtom.com/traffic/services/4/flowSegmentData/absolute/10/xml?key={Your_API_Key}&point=52.41072,4.84239
+
+
+//api for incidence
+https://api.tomtom.com/traffic/services/5/incidentDetails?fields={incidents{type,geometry{type,coordinates},properties{iconCategory}}}&language=en-GB&t=1111&timeValidityFilter=present&key=tORN7bSd1aiJ41TBCfPChldM0U79uubB&bbox=40.43862012048986,-3.7405314379756147,40.41564009101075,-3.62899482392692

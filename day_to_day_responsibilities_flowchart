@@ -1,0 +1,15 @@
+digraph {
+	A [label="Development of AI-based prototype for TB detection"]
+	B [label="Training the model using CNN and deep learning"]
+	C [label="Digital image conversion from 2D to 3D"]
+	D [label="Testing and refining the model"]
+	E [label="Development of user-friendly GUI"]
+	F [label="Report generation based on model findings"]
+	G [label="Refinement of the model for other respiratory disorders"]
+	A -> B
+	B -> C
+	B -> D
+	D -> E
+	D -> F
+	G -> F
+}
